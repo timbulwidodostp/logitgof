@@ -1,6 +1,8 @@
 # logitgof
 Hosmer-Lemeshow Tests for Logistic Regression Models Use logitgof (generalhoslem) With (In) R Software
 
+https://www.youtube.com/watch?v=7awzLkwtZao
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
